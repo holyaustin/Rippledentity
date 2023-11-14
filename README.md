@@ -1,5 +1,9 @@
 # Rippledentity
 
+## Intro
+
+A Decentralized Identity platform built with the power of Ripple (XRPL) for seemless payment
+
 ## Identity and Payment through Abstraction
 
 payer, the easiest way to send and receive crypto tokens.
