@@ -2,7 +2,11 @@
 
 ## Intro
 
-A Decentralized Identity platform built with the power of Ripple (XRPL) for seemless payment
+A Decentralized Identity platform built with the power of Ripple (XRPL) for seemless payment.
+The current centralized identity systems are plagued with issues related to
+data privacy, security breaches, and lack of user control. Users do not
+have any choice but to live with this evil of no data privacy and user data
+control
 
 ## Identity and Payment through Abstraction
 
